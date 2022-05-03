@@ -1,1 +1,15 @@
 # NHPP
+This data are the number of days to infection from first shot of ChAdOx1 (Oxford/AstraZeneca) vaccine. Patients received two shots, the second with an average of 63 days. All infection within the first 14 days from first shot were discarded. If used, please use the following bib:
+
+@article {Hernandez-Suarez2022.04.17.22273854,
+	author = {Hernandez-Suarez, Carlos and Murillo-Zamora, Efren},
+	title = {Characterization of SARS-CoV-2 vaccine waning in Mexico},
+	elocation-id = {2022.04.17.22273854},
+	year = {2022},
+	doi = {10.1101/2022.04.17.22273854},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	abstract = {We use survival analysis to analyze the decay in the protection induced by eight vaccines using data from 44,006 patients from the IMSS public health system in Mexico, including only previously vaccinated, confirmed SARS-CoV-2 positive with a PCR test. We analyze three groupings: all data, complete vs. incomplete dose and less than 60 years or older. We found that a Weibull distribution fits very well the complete dose data. Only three vaccines still had 30 of their initial strength after 32 weeks. In two-dose vaccines, we found that the average protection time of a complete dose increases 2 to 3 times compared to that of an incomplete dose.Competing Interest StatementThe authors have declared no competing interest.Funding StatementThis study did not receive any fundingAuthor DeclarationsI confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.YesThe details of the IRB/oversight body that provided approval or exemption for the research described are given below:This study was reviewed and approved by the Local Health Research Committee 601 of the Instituto Mexicano de Seguro Social (approval R-2020-601-022).I confirm that all necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived, and that any patient/participant/sample identifiers included were not known to anyone (e.g., hospital staff, patients or participants themselves) outside the research group so cannot be used to identify individuals.YesI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable.YesAll data produced in the present study are available upon reasonable request to the authors},
+	URL = {https://www.medrxiv.org/content/early/2022/04/18/2022.04.17.22273854},
+	eprint = {https://www.medrxiv.org/content/early/2022/04/18/2022.04.17.22273854.full.pdf},
+	journal = {medRxiv}
+}
